@@ -1,0 +1,12 @@
+Admin Credentials
+email: rafayshaikh405@gmail.com
+password: 12341234
+
+Normal User Credentials
+email: sana@gmail.com
+password: 12341234
+
+Admin Dashboard Url: localhost:8000/Dashboard
+
+Database is in public/database folder, Create Database with name 'laravel_news' and import database from public/database folder
+Database is also available in Project_Details folder
